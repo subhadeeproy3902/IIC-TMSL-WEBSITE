@@ -26,7 +26,15 @@ b. Nicepage Desktop (About US page is made beautifully from it)
 
 
 
+### Worked on -
 
+- VS Code
+
+- Windows 11
+
+- Html, CSS, Javascript Framework
+
+- Deployed from VERCEL
 
 ## Features
 
