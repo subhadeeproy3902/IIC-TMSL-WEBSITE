@@ -4,7 +4,7 @@ A dummy and good looking website for an official team of Techno Main Salt Lake (
 
 ## To get started - 
 
-Run the index.html filea after downloading the project or simply u can visit <a href="https://iic-tmsl-3902.vercel.app/">iictmsl-3902.com</a> so tht your time doesnt get spent much 🙃
+Run the index.html filea after downloading the project or simply u can visit <a href="https://iic-tmsl-3902.vercel.app/" target="_blank">iictmsl-3902.com</a> so tht your time doesnt get spent much 🙃
 
 ## Terms and Conditions - 
 
