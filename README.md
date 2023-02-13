@@ -6,6 +6,9 @@ A dummy and good looking website for an official team of Techno Main Salt Lake (
 
 Run the index.html filea after downloading the project or simply u can visit (site name) so tht your time doesnt get spent much 🙃
 
+## Terms and Conditions - 
+
+Need a laptop/pc screen to work as the website is yet not responsive i.e  ( @media works arent present ).
 
 ## For a contest -
 
